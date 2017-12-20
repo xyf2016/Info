@@ -1,0 +1,3 @@
+一个开源开发者
+https://mengwangk.github.io/
+.NET QRCode Library是他的其中一个项目。不再维护。
